@@ -25,6 +25,7 @@ int main()
 ```
 
 ## OUTPUT:
+<img width="802" height="247" alt="Image" src="https://github.com/user-attachments/assets/c4cc44fd-9f68-4305-8c51-3470e699e33b" />
 
 ## RESULT:
 Thus,the program has been executed successfully.
@@ -59,6 +60,7 @@ int main()
 }
 ```
 ## OUTPUT:
+<img width="803" height="293" alt="Image" src="https://github.com/user-attachments/assets/239e5dd0-973b-4db1-8e7d-82e81294733a" />
 
 ## RESULT:
 Thus,the program has been executed successfully.
@@ -98,15 +100,14 @@ int main()
 }
 ```
 ## OUTPUT:
-
+<img width="880" height="320" alt="Image" src="https://github.com/user-attachments/assets/6b9420ec-3e54-4fd7-b195-0b223176ceb4" />
 
 ## RESULT:
 Thus,the program has been executed successfully.
 
 ---
 
-# 1d : 
-C program to read the age of a candidate and determine whether he/she is eligible for admission into pre-school( assume eligible age > 3).
+# 1d : C program to read the age of a candidate and determine whether he/she is eligible for admission into pre-school( assume eligible age > 3).
 
 ## AIM:
 To write a C program to read the age of a candidate and determine whether he/she is eligible for admission into pre-school( assume eligible age > 3).
@@ -132,15 +133,14 @@ int main()
 ```
 
 ## OUTPUT:
-
+<img width="800" height="251" alt="Image" src="https://github.com/user-attachments/assets/c2f55b72-e58f-46f2-9c1f-b8b1c04f76d0" />
 
 ## RESULT:
 Thus,the program has been executed successfully.
 
 ---
 
-# 1e :
-C program to read any digit(16-20), display in the word.
+# 1e : C program to read any digit(16-20), display in the word.
 
 ## AIM:
 To write a program in C to read any digit(16-20), display in the word.
@@ -190,7 +190,7 @@ int main()
 ```
 
 ## OUTPUT:
-
+<img width="807" height="248" alt="Image" src="https://github.com/user-attachments/assets/bd832f4f-6f49-4c55-b897-d7f307e96970" />
 
 ## RESULT:
 Thus,the program has been executed successfully.
